@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This app is a minimalist and lighweight homepage with search functionality and a few news sources that I like to look at sometimes.
+
+There is no customizability, although it does support a few search engines.
+
+I made this because homepages don't seem to exist anymore, and the default ones browsers tend to use are bloated and slow (looking at you edge). Google is fine and all, but I like something slightly more useful without being over the top.
 
 ## Getting Started
 
